@@ -119,4 +119,11 @@ testImplementation "junit:junit:4.13.2"
 testImplementation "io.mockk:mockk:1.12.0"
 testImplementation "org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.1"
 testImplementation "androidx.arch.core:core-testing:2.2.0"
+
+
 ```
+
+## Acknowledgments
+
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - A free fake API for testing and prototyping. Created and maintained by [Typicode](https://github.com/typicode). This project uses JSONPlaceholder to demonstrate API integration in Android applications. Special thanks to the maintainers for providing this valuable resource for developers.
+
